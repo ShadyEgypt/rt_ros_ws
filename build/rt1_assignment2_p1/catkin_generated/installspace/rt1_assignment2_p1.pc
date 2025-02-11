@@ -1,0 +1,8 @@
+prefix=/home/shady/Documents/unige_robotics_msc/0x01_first_year_1st_semster/rt1/ros_ws/install
+
+Name: rt1_assignment2_p1
+Description: Description of rt1_assignment2_p1
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs actionlib actionlib_msgs geometry_msgs nav_msgs sensor_msgs message_runtime
