@@ -401,12 +401,6 @@ actionlib_DIR:PATH=/opt/ros/noetic/share/actionlib/cmake
 actionlib_msgs_DIR:PATH=/opt/ros/noetic/share/actionlib_msgs/cmake
 
 //Value Computed by CMake
-assignment2_p1_BINARY_DIR:STATIC=/home/shady/Documents/unige_robotics_msc/0x01_first_year_1st_semster/rt1/ros_ws/build/assignment2_p1
-
-//Value Computed by CMake
-assignment2_p1_SOURCE_DIR:STATIC=/home/shady/Documents/unige_robotics_msc/0x01_first_year_1st_semster/rt1/ros_ws/src/assignment2_p1
-
-//Value Computed by CMake
 assignment_2_2024_BINARY_DIR:STATIC=/home/shady/Documents/unige_robotics_msc/0x01_first_year_1st_semster/rt1/ros_ws/build/assignment_2_2024
 
 //Value Computed by CMake
@@ -550,12 +544,6 @@ rospy_DIR:PATH=/opt/ros/noetic/share/rospy/cmake
 
 //The directory containing a CMake configuration file for rostime.
 rostime_DIR:PATH=/opt/ros/noetic/share/rostime/cmake
-
-//Value Computed by CMake
-rt1_assignment1_BINARY_DIR:STATIC=/home/shady/Documents/unige_robotics_msc/0x01_first_year_1st_semster/rt1/ros_ws/build/rt1_assignment1
-
-//Value Computed by CMake
-rt1_assignment1_SOURCE_DIR:STATIC=/home/shady/Documents/unige_robotics_msc/0x01_first_year_1st_semster/rt1/ros_ws/src/rt1_assignment1
 
 //Value Computed by CMake
 rt1_assignment2_p1_BINARY_DIR:STATIC=/home/shady/Documents/unige_robotics_msc/0x01_first_year_1st_semster/rt1/ros_ws/build/rt1_assignment2_p1
@@ -750,7 +738,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=10
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=9
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

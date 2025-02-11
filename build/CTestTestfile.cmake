@@ -6,7 +6,6 @@
 # testing this directory and lists subdirectories to be tested as well.
 subdirs("gtest")
 subdirs("my_first_package")
-subdirs("rt1_assignment1")
 subdirs("rt1_assignment2_p1")
 subdirs("assignment_2_2024")
 subdirs("turtlebot_controller")
