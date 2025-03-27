@@ -1,8 +1,0 @@
-prefix=/home/shady/Documents/unige_robotics_msc/0x01_first_year_1st_semster/rt1/ros_ws/install
-
-Name: my_first_package
-Description: Description of my_first_package
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

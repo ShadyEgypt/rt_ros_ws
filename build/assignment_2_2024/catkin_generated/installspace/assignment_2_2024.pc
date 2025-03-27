@@ -1,8 +1,0 @@
-prefix=/home/shady/Documents/unige_robotics_msc/0x01_first_year_1st_semster/rt1/ros_ws/install
-
-Name: assignment_2_2024
-Description: Description of assignment_2_2024
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: 
